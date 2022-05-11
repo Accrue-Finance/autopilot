@@ -1,0 +1,12 @@
+[programs.localnet]
+autopilot = "Cq66HoXPX5ECJeEB1zsxYLWs3F8SfG7D3B1S4vd8rAB5"
+
+[registry]
+url = "https://anchor.projectserum.com"
+
+[provider]
+cluster = "localnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "yarn run ts-mocha -t 1000000 tests/**/*.ts"
