@@ -1,5 +1,7 @@
 # autopilot
-Autopilot moves your money around to get you the best yield in Solana. Features include: partial distributions, ability to integrate with 12+ protocols, extremely fast money movement. But really, this is a vault standard that can be applied to many more applications.
+Autopilot moves your money around to get you the best yield in Solana. Features include: partial distributions, ability to integrate with 12+ protocols, extremely fast money movement. But really, this is a vault standard that can be applied to many more applications.  
+
+READ THIS FIRST FOR CONTEXT: https://medium.com/accrue-finance/pioneering-solanas-eip-4626-vault-standard-74a9755fe5f0
 
 Let’s walk through an example of an Accrue $RAY vault.
 
